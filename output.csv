@@ -1,0 +1,6 @@
+name;surname;age;have_pets;reg_date
+Yana;Dolgih;20;True;2024-11-23 12:30:00
+Maria;Petrova;30;True;2024-11-24 12:40:00
+Maxim;Ivanov;22;True;2024-11-25 12:32:00
+Vladimir;Sidorov;52;True;2024-11-26 12:50:00
+Peter;Gavrilov;15;True;2024-11-27 12:20:00

@@ -1,0 +1,6 @@
+Name surname age have_pets
+Yana Dolgih 23 True
+Maria Petrova 44 True
+Maxim Ivanov 55 True
+Vladimir Sidorov 2 True
+Alex Manuylov 5 True
